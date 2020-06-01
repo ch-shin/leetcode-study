@@ -17,3 +17,6 @@ Study for your brain
 * [017]Letter Combinations of a Phone Number (Medium)
 * [019]Remove Nth Node From End of List (Medium)
 * [020]Valid Parentheses (Easy)
+* [023]Merge k Sorted Lists (Hard)
+* [025]Reverse Nodes in k-Group (Hard)
+* [029]Divide Two Integers (Medium)
