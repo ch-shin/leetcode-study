@@ -20,3 +20,7 @@ Study for your brain
 * [023]Merge k Sorted Lists (Hard)
 * [025]Reverse Nodes in k-Group (Hard)
 * [029]Divide Two Integers (Medium)
+* [031]Next Permutation (Medium)
+* [032]Longest Valid Parentheses (Hard)
+* [033]Search in Rotated Sorted Array (Medium)
+* [035]Search Insert Position (Easy)
