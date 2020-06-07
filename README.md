@@ -5,6 +5,7 @@ Study for your brain
 * Week 1. Problems 1 ~ 10
 * Week 2. Problems 11 ~ 15
 * Week 3. Problems 16 ~ 21
+* Week 4. Problems 22 ~ 28
 
 # Problems worth solving
 * [002]Add Two Numbers (Medium)
