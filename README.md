@@ -6,6 +6,7 @@ Study for your brain
 * Week 2. Problems 11 ~ 15
 * Week 3. Problems 16 ~ 21
 * Week 4. Problems 22 ~ 28
+* Week 5. Problems 29 ~ 35
 
 # Problems worth solving
 * [002]Add Two Numbers (Medium)
@@ -25,3 +26,5 @@ Study for your brain
 * [032]Longest Valid Parentheses (Hard)
 * [033]Search in Rotated Sorted Array (Medium)
 * [035]Search Insert Position (Easy)
+* [036]Sudoku Solver (Hard)
+* [037]Count and Say (Easy)
