@@ -5,6 +5,7 @@ Study for your brain
 * Week 1. Problems 1 ~ 10
 * Week 2. Problems 11 ~ 15
 * Week 3. Problems 16 ~ 21
+* Week 4. Problems 22 ~ 28
 
 # Problems worth solving
 * [002]Add Two Numbers (Medium)
@@ -20,3 +21,7 @@ Study for your brain
 * [023]Merge k Sorted Lists (Hard)
 * [025]Reverse Nodes in k-Group (Hard)
 * [029]Divide Two Integers (Medium)
+* [031]Next Permutation (Medium)
+* [032]Longest Valid Parentheses (Hard)
+* [033]Search in Rotated Sorted Array (Medium)
+* [035]Search Insert Position (Easy)
