@@ -8,6 +8,7 @@ Study for your brain
 * Week 4. Problems 22 ~ 28
 * Week 5. Problems 29 ~ 35
 
+This study ended at Week 5 because our brains were teased enough :trollface:
 # Problems worth solving
 * [002]Add Two Numbers (Medium)
 * [003]Longest Substring Without Repeating Characters (Medium)
