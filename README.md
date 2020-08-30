@@ -27,5 +27,5 @@ This study ended at Week 5 because our brains were teased enough :trollface:
 * [032]Longest Valid Parentheses (Hard)
 * [033]Search in Rotated Sorted Array (Medium)
 * [035]Search Insert Position (Easy)
-* [036]Sudoku Solver (Hard)
-* [037]Count and Say (Easy)
+* [037]Sudoku Solver (Hard)
+* [038]Count and Say (Easy)
