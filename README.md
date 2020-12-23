@@ -17,7 +17,7 @@ This study ended at Week 5 because our brains were teased enough :trollface:
 
 ### Season 2
 
-I restarted it to show off the fact I am doing something productive during PhD program (actually not :sunglasses:).
+I restarted it to show off the fact I am doing something productive (actually not :sunglasses:).
 
 # Problems worth solving
 * [002]Add Two Numbers (Medium)
