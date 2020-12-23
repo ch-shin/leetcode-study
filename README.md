@@ -2,6 +2,9 @@
 Study for your brain
 
 # Plan
+
+### Season 1
+
 * Week 1. Problems 1 ~ 10
 * Week 2. Problems 11 ~ 15
 * Week 3. Problems 16 ~ 21
@@ -9,6 +12,13 @@ Study for your brain
 * Week 5. Problems 29 ~ 35
 
 This study ended at Week 5 because our brains were teased enough :trollface:
+
+----
+
+### Season 2
+
+I restarted it to show off the fact I am doing something productive during PhD (actually not :sunglasses:). And, I have no plan now.
+
 # Problems worth solving
 * [002]Add Two Numbers (Medium)
 * [003]Longest Substring Without Repeating Characters (Medium)
