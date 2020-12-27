@@ -17,7 +17,7 @@ This study ended at Week 5 because our brains were teased enough :trollface:
 
 ### Season 2
 
-I restarted it to show off the fact I am doing something productive during PhD (actually not :sunglasses:). And, I have no plan now.
+I restarted it to show off the fact I am doing something productive (actually not :sunglasses:).
 
 # Problems worth solving
 * [002]Add Two Numbers (Medium)
@@ -39,3 +39,5 @@ I restarted it to show off the fact I am doing something productive during PhD (
 * [035]Search Insert Position (Easy)
 * [037]Sudoku Solver (Hard)
 * [038]Count and Say (Easy)
+* [039]Combination Sum (Medium)
+* [046]Jump Game II (Hard)
